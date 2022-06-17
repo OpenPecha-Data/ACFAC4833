@@ -1,0 +1,40 @@
+segment_sources:
+  IB6D89289:
+    type: origin_type
+    relation: translation
+    language: en
+  I834E32AC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  af44e5fcae0f4675bfa361cdcb07edea:
+    IB6D89289: a16e57313f3c437c8ca021c2eeab23e9
+    I834E32AC: af7769013a0d45e18ce1b5d462db7dfb
+  bdbfbd990d04487f83860785edfde248:
+    IB6D89289: eb73f0757b424f55a0654c8d0ff433e1
+    I834E32AC: 3a316af57fc648edbb9a52e156b69a7a
+  c68a4fd724764706a1726c5af66a2f66:
+    IB6D89289: 092c5921de2c4fb19a7f4d25802989ee
+    I834E32AC: 2c7d01fb761947c1820ad5a013c7981a
+  e4e625cbf6a74c1d9f04daf1a7ce646e:
+    IB6D89289: b42d7d93c7cc4f33b2031ce680840ca7
+    I834E32AC: f963e4d813ed4f02b126e9459b76708b
+  0757d19e00a245b3a5b0e8dce78e778c:
+    IB6D89289: 301f4cd518544b3683ad37c4f9f0294a
+    I834E32AC: 18574c67e58c435a831f0dee3a5788f5
+  dd18af1fd9bd4f018b7cd54d9843bf23:
+    IB6D89289: 4cffd16a9908439e9afcdc0c77edfe8f
+    I834E32AC: 232bcb815218429b91c4fecab055b250
+  8a637fd8b2a244b1a27d7cee69d41a1b:
+    IB6D89289: 2af63e2988b644f9aea22ca3e715eff9
+    I834E32AC: fcd1b7b7a1b34000bb782c0aaba8fc05
+  ab7caae0d0774c72b9d89a013f7a99b6:
+    IB6D89289: b305dc7b324244ebad7b04c51339af8a
+    I834E32AC: ccb9e1bb3c0d48b8a845677dc94afdab
+  5e83cd28185a4fd6b13f7e0a2ea71549:
+    IB6D89289: 4742b614d7cf4e888df04c3b6aa1b986
+    I834E32AC: a5fe10f53efb493980c32933f515e2ae
+  bc0ab32c058044b9bb73485b7a28eb11:
+    IB6D89289: d30dfbc605964b7eb82483a838cc3d11
+    I834E32AC: f4b6cac6c9e6495db26cc0d98e5ce943
